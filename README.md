@@ -8,6 +8,10 @@
 * Partial graph as a source
 * Partial graph as a flow
 
+## Shapes
+* Custom Shape
+* Bi-directional flow
+
 ## Examples
 * 
 
