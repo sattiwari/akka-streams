@@ -1,4 +1,4 @@
-package stlabs.partialgraphs
+package stlabs.graphs
 
 import akka.stream.scaladsl.{GraphDSL, RunnableGraph, Sink, Source, ZipWith}
 import akka.stream.{ClosedShape, UniformFanInShape}

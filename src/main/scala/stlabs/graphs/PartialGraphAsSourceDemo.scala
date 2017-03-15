@@ -1,4 +1,4 @@
-package stlabs.partialgraphs
+package stlabs.graphs
 
 import akka.stream.SourceShape
 import akka.stream.scaladsl.{GraphDSL, Sink, Source, Zip}

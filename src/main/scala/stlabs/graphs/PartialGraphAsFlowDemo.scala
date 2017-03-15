@@ -1,4 +1,4 @@
-package stlabs.partialgraphs
+package stlabs.graphs
 
 import akka.stream.FlowShape
 import akka.stream.scaladsl._

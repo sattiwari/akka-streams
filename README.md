@@ -7,6 +7,8 @@
 * Partial graphs
 * Partial graph as a source
 * Partial graph as a flow
+* Closed graphs
+* Materialized value of a graph
 
 ## Shapes
 * Custom Shape
